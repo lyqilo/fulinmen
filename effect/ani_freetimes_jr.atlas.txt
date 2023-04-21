@@ -1,0 +1,41 @@
+
+ani_freetimes_jr.png
+size: 1708,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban_tips
+  rotate: false
+  xy: 2, 7
+  size: 883, 85
+  orig: 898, 85
+  offset: 7, 0
+  index: -1
+gongxininjinru
+  rotate: false
+  xy: 887, 2
+  size: 545, 90
+  orig: 545, 90
+  offset: 0, 0
+  index: -1
+gongxininjinru_y
+  rotate: false
+  xy: 887, 2
+  size: 545, 90
+  orig: 545, 90
+  offset: 0, 0
+  index: -1
+mianfeiyouxi
+  rotate: false
+  xy: 1434, 24
+  size: 271, 68
+  orig: 273, 69
+  offset: 1, 1
+  index: -1
+mianfeiyouxi_y
+  rotate: false
+  xy: 1434, 24
+  size: 271, 68
+  orig: 273, 69
+  offset: 1, 1
+  index: -1

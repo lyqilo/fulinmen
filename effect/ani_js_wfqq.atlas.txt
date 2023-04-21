@@ -1,0 +1,20 @@
+
+ani_js_wfqq.png
+size: 768,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wufuqiquan
+  rotate: true
+  xy: 532, 2
+  size: 586, 232
+  orig: 586, 240
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 48
+  size: 540, 528
+  orig: 540, 529
+  offset: 0, 1
+  index: -1

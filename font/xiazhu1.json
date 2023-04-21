@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "xiazhu_,.png",
+	"frame": {"x":0,"y":0,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_..png",
+	"frame": {"x":23,"y":0,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_0.png",
+	"frame": {"x":46,"y":0,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_1.png",
+	"frame": {"x":69,"y":0,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_2.png",
+	"frame": {"x":92,"y":0,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_3.png",
+	"frame": {"x":0,"y":26,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_4.png",
+	"frame": {"x":23,"y":26,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_5.png",
+	"frame": {"x":46,"y":26,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_6.png",
+	"frame": {"x":69,"y":26,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_7.png",
+	"frame": {"x":92,"y":26,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_8.png",
+	"frame": {"x":0,"y":52,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_9.png",
+	"frame": {"x":23,"y":52,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_B.png",
+	"frame": {"x":46,"y":52,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_K.png",
+	"frame": {"x":69,"y":52,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_M.png",
+	"frame": {"x":92,"y":52,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+},
+{
+	"filename": "xiazhu_T.png",
+	"frame": {"x":0,"y":78,"w":22,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":25},
+	"sourceSize": {"w":22,"h":25}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "xiazhu1.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bd0c463b542f80d62fdc01ffcba27d58:c386f0a6c52c40c0af7ec2ada3e99636:db9d2cd7617575af99409086dadded82$"
+}
+}

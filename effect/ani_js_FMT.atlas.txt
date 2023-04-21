@@ -1,0 +1,27 @@
+
+ani_js_FMT.png
+size: 752,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheng1
+  rotate: true
+  xy: 2, 190
+  size: 599, 582
+  orig: 600, 588
+  offset: 0, 5
+  index: -1
+fulushuangquanBG
+  rotate: false
+  xy: 2, 2
+  size: 651, 186
+  orig: 651, 186
+  offset: 0, 0
+  index: -1
+fumantang
+  rotate: true
+  xy: 586, 312
+  size: 477, 164
+  orig: 477, 171
+  offset: 0, 0
+  index: -1

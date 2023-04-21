@@ -1,0 +1,146 @@
+
+flm_tb_nanhai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanhai/FuLinMenGame_Animal_nanhai_00000
+  rotate: true
+  xy: 973, 372
+  size: 199, 171
+  orig: 300, 300
+  offset: 51, 59
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00001
+  rotate: false
+  xy: 440, 255
+  size: 199, 204
+  orig: 300, 300
+  offset: 51, 30
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00002
+  rotate: false
+  xy: 238, 247
+  size: 200, 212
+  orig: 300, 300
+  offset: 50, 25
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00003
+  rotate: true
+  xy: 1016, 825
+  size: 207, 219
+  orig: 300, 300
+  offset: 43, 21
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00004
+  rotate: true
+  xy: 1016, 1034
+  size: 210, 228
+  orig: 300, 300
+  offset: 40, 16
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00005
+  rotate: true
+  xy: 965, 573
+  size: 214, 233
+  orig: 300, 300
+  offset: 36, 11
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00006
+  rotate: true
+  xy: 734, 266
+  size: 219, 237
+  orig: 300, 300
+  offset: 31, 7
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00007
+  rotate: true
+  xy: 777, 789
+  size: 226, 237
+  orig: 300, 300
+  offset: 25, 6
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00008
+  rotate: true
+  xy: 734, 487
+  size: 231, 229
+  orig: 300, 300
+  offset: 22, 16
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00009
+  rotate: false
+  xy: 777, 1017
+  size: 237, 227
+  orig: 300, 300
+  offset: 18, 16
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00010
+  rotate: false
+  xy: 487, 485
+  size: 245, 233
+  orig: 300, 300
+  offset: 13, 12
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00011
+  rotate: true
+  xy: 2, 470
+  size: 252, 242
+  orig: 300, 300
+  offset: 8, 6
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00012
+  rotate: true
+  xy: 516, 720
+  size: 258, 247
+  orig: 300, 300
+  offset: 4, 3
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00013
+  rotate: true
+  xy: 2, 724
+  size: 262, 252
+  orig: 300, 300
+  offset: 1, 0
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00014
+  rotate: true
+  xy: 270, 980
+  size: 264, 253
+  orig: 300, 300
+  offset: 1, 1
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00015
+  rotate: false
+  xy: 2, 988
+  size: 266, 256
+  orig: 300, 300
+  offset: 1, 0
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00016
+  rotate: true
+  xy: 2, 214
+  size: 254, 234
+  orig: 300, 300
+  offset: 16, 23
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00017
+  rotate: true
+  xy: 246, 461
+  size: 261, 239
+  orig: 300, 300
+  offset: 14, 20
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00018
+  rotate: false
+  xy: 525, 999
+  size: 250, 245
+  orig: 300, 300
+  offset: 29, 16
+  index: -1
+nanhai/FuLinMenGame_Animal_nanhai_00019
+  rotate: false
+  xy: 256, 729
+  size: 258, 249
+  orig: 300, 300
+  offset: 24, 14
+  index: -1

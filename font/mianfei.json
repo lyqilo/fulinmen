@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "mianfeicishu_01.png",
+	"frame": {"x":0,"y":0,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_02.png",
+	"frame": {"x":34,"y":0,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_03.png",
+	"frame": {"x":68,"y":0,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_04.png",
+	"frame": {"x":0,"y":47,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_05.png",
+	"frame": {"x":34,"y":47,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_06.png",
+	"frame": {"x":68,"y":47,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_07.png",
+	"frame": {"x":0,"y":94,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_08.png",
+	"frame": {"x":34,"y":94,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_09.png",
+	"frame": {"x":68,"y":94,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mianfeicishu_10.png",
+	"frame": {"x":0,"y":141,"w":34,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":47},
+	"sourceSize": {"w":34,"h":47},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mianfei.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb6efbb8f7978e5a67ec831747e61ffc:a9de532818761fa56dfc0ef9557b549b:5838b2722dd02ae98826feb51555abc4$"
+}
+}

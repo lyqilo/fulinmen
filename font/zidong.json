@@ -1,0 +1,102 @@
+{"frames": [
+
+{
+	"filename": "zidongcishu_01.png",
+	"frame": {"x":0,"y":0,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_02.png",
+	"frame": {"x":36,"y":0,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_03.png",
+	"frame": {"x":72,"y":0,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_04.png",
+	"frame": {"x":0,"y":51,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_05.png",
+	"frame": {"x":36,"y":51,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_06.png",
+	"frame": {"x":72,"y":51,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_07.png",
+	"frame": {"x":0,"y":102,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_08.png",
+	"frame": {"x":36,"y":102,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_09.png",
+	"frame": {"x":72,"y":102,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zidongcishu_10.png",
+	"frame": {"x":0,"y":153,"w":36,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":51},
+	"sourceSize": {"w":36,"h":51},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "zidong.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:88a3cdf701513d91fb17e900da63e0dd:4d150c8046402fe21834f5f96311c5b3:f74f96091927358cf2e66786e6037be8$"
+}
+}

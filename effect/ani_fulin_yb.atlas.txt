@@ -1,0 +1,125 @@
+
+ani_fulin_yb.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FULIN_YB/YB_0000_FuLinMenGame_Animal_paojinbi_00016
+  rotate: false
+  xy: 413, 97
+  size: 135, 226
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0001_FuLinMenGame_Animal_paojinbi_00015
+  rotate: false
+  xy: 276, 75
+  size: 135, 226
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0002_FuLinMenGame_Animal_paojinbi_00014
+  rotate: false
+  xy: 2, 2
+  size: 135, 268
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0003_FuLinMenGame_Animal_paojinbi_00013
+  rotate: false
+  xy: 687, 705
+  size: 135, 297
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0004_FuLinMenGame_Animal_paojinbi_00012
+  rotate: false
+  xy: 550, 361
+  size: 135, 317
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0005_FuLinMenGame_Animal_paojinbi_00011
+  rotate: false
+  xy: 413, 325
+  size: 135, 332
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0006_FuLinMenGame_Animal_paojinbi_00010
+  rotate: false
+  xy: 276, 303
+  size: 135, 344
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0007_FuLinMenGame_Animal_paojinbi_00009
+  rotate: false
+  xy: 276, 649
+  size: 135, 353
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0008_FuLinMenGame_Animal_paojinbi_00008
+  rotate: false
+  xy: 139, 642
+  size: 135, 360
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0009_FuLinMenGame_Animal_paojinbi_00007
+  rotate: false
+  xy: 2, 272
+  size: 135, 363
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0010_FuLinMenGame_Animal_paojinbi_00006
+  rotate: false
+  xy: 2, 637
+  size: 135, 365
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0011_FuLinMenGame_Animal_paojinbi_00005
+  rotate: false
+  xy: 139, 282
+  size: 135, 358
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0012_FuLinMenGame_Animal_paojinbi_00004
+  rotate: false
+  xy: 413, 659
+  size: 135, 343
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0013_FuLinMenGame_Animal_paojinbi_00003
+  rotate: false
+  xy: 550, 680
+  size: 135, 322
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0014_FuLinMenGame_Animal_paojinbi_00002
+  rotate: false
+  xy: 687, 409
+  size: 135, 294
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0015_FuLinMenGame_Animal_paojinbi_00001
+  rotate: false
+  xy: 139, 21
+  size: 135, 259
+  orig: 135, 380
+  offset: 0, 0
+  index: -1
+FULIN_YB/YB_0016_FuLinMenGame_Animal_paojinbi_00000
+  rotate: false
+  xy: 550, 134
+  size: 135, 225
+  orig: 135, 380
+  offset: 0, 0
+  index: -1

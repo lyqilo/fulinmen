@@ -1,0 +1,118 @@
+
+ani_flm_9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flm_TB_/eff_flm_9/flm_9_0001
+  rotate: true
+  xy: 127, 398
+  size: 50, 32
+  orig: 164, 152
+  offset: 48, 112
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0002
+  rotate: true
+  xy: 78, 377
+  size: 68, 47
+  orig: 164, 152
+  offset: 42, 99
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0003
+  rotate: true
+  xy: 71, 94
+  size: 79, 59
+  orig: 164, 152
+  offset: 39, 87
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0004
+  rotate: true
+  xy: 2, 88
+  size: 85, 67
+  orig: 164, 152
+  offset: 38, 78
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0005
+  rotate: true
+  xy: 2, 175
+  size: 88, 72
+  orig: 164, 152
+  offset: 38, 70
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0006
+  rotate: true
+  xy: 2, 355
+  size: 90, 74
+  orig: 164, 152
+  offset: 38, 63
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0007
+  rotate: true
+  xy: 2, 265
+  size: 88, 73
+  orig: 164, 152
+  offset: 40, 57
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0008
+  rotate: true
+  xy: 2, 2
+  size: 84, 76
+  orig: 164, 152
+  offset: 44, 44
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0009
+  rotate: false
+  xy: 76, 186
+  size: 76, 77
+  orig: 164, 152
+  offset: 50, 34
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0010
+  rotate: false
+  xy: 77, 280
+  size: 64, 73
+  orig: 164, 152
+  offset: 58, 25
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0011
+  rotate: false
+  xy: 89, 504
+  size: 52, 64
+  orig: 164, 152
+  offset: 65, 20
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0012
+  rotate: false
+  xy: 89, 450
+  size: 46, 52
+  orig: 164, 152
+  offset: 66, 18
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0013
+  rotate: true
+  xy: 127, 357
+  size: 39, 38
+  orig: 164, 152
+  offset: 68, 18
+  index: -1
+flm_TB_/eff_flm_9/flm_9_0014
+  rotate: true
+  xy: 137, 474
+  size: 28, 23
+  orig: 164, 152
+  offset: 73, 19
+  index: -1
+flm_TB_/flm_9
+  rotate: false
+  xy: 2, 447
+  size: 85, 121
+  orig: 164, 152
+  offset: 40, 20
+  index: -1
+flm_TB_/images_tuwenlia1
+  rotate: false
+  xy: 2, 570
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1

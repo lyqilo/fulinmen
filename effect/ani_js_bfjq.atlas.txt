@@ -1,0 +1,20 @@
+
+ani_js_bfjq.png
+size: 848,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baifujuzhen
+  rotate: true
+  xy: 586, 2
+  size: 651, 260
+  orig: 651, 267
+  offset: 0, 0
+  index: -1
+cheng
+  rotate: true
+  xy: 2, 54
+  size: 599, 582
+  orig: 600, 588
+  offset: 0, 5
+  index: -1

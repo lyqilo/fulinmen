@@ -1,0 +1,62 @@
+
+button.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light_Piont
+  rotate: false
+  xy: 193, 85
+  size: 149, 147
+  orig: 196, 190
+  offset: 19, 22
+  index: -1
+barbarian
+  rotate: false
+  xy: 2, 101
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+monsterAffix
+  rotate: false
+  xy: 2, 417
+  size: 232, 234
+  orig: 235, 235
+  offset: 1, 0
+  index: -1
+xuanzhuan
+  rotate: true
+  xy: 2, 2
+  size: 97, 95
+  orig: 97, 97
+  offset: 0, 1
+  index: -1
+xuanzhuan_button
+  rotate: true
+  xy: 193, 234
+  size: 181, 182
+  orig: 181, 182
+  offset: 0, 0
+  index: -1
+xuanzhuan_button_blur
+  rotate: true
+  xy: 2, 228
+  size: 187, 189
+  orig: 189, 191
+  offset: 1, 1
+  index: -1
+xuanzhuan_button_free
+  rotate: true
+  xy: 236, 470
+  size: 181, 182
+  orig: 181, 182
+  offset: 0, 0
+  index: -1
+xuanzhuan_free
+  rotate: false
+  xy: 344, 137
+  size: 97, 95
+  orig: 97, 97
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,125 @@
+
+aniflm_speed.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/js_eff_speed0030
+  rotate: true
+  xy: 1121, 574
+  size: 278, 559
+  orig: 320, 560
+  offset: 21, 0
+  index: -1
+images/js_eff_speed0033
+  rotate: true
+  xy: 1118, 1692
+  size: 254, 559
+  orig: 320, 560
+  offset: 33, 1
+  index: -1
+images/js_eff_speed0036
+  rotate: true
+  xy: 1106, 1170
+  size: 264, 559
+  orig: 320, 560
+  offset: 28, 0
+  index: -1
+images/js_eff_speed0039
+  rotate: true
+  xy: 562, 903
+  size: 265, 559
+  orig: 320, 560
+  offset: 28, 0
+  index: -1
+images/js_eff_speed0042
+  rotate: true
+  xy: 2, 1446
+  size: 254, 557
+  orig: 320, 560
+  offset: 33, 2
+  index: -1
+images/js_eff_speed0045
+  rotate: true
+  xy: 2, 1702
+  size: 244, 556
+  orig: 320, 560
+  offset: 37, 4
+  index: -1
+images/js_eff_speed0048
+  rotate: true
+  xy: 561, 1446
+  size: 254, 553
+  orig: 320, 560
+  offset: 33, 6
+  index: -1
+images/js_eff_speed0051
+  rotate: false
+  xy: 1673, 854
+  size: 267, 550
+  orig: 320, 560
+  offset: 26, 9
+  index: -1
+images/js_eff_speed0054
+  rotate: false
+  xy: 1679, 1406
+  size: 267, 540
+  orig: 320, 560
+  offset: 26, 18
+  index: -1
+images/js_eff_speed0057
+  rotate: true
+  xy: 2, 918
+  size: 264, 558
+  orig: 320, 560
+  offset: 28, 0
+  index: -1
+images/js_eff_speed0060
+  rotate: true
+  xy: 561, 625
+  size: 276, 558
+  orig: 320, 560
+  offset: 22, 0
+  index: -1
+images/js_eff_speed0063
+  rotate: true
+  xy: 2, 1184
+  size: 260, 558
+  orig: 320, 560
+  offset: 30, 0
+  index: -1
+images/js_eff_speed0066
+  rotate: true
+  xy: 2, 642
+  size: 274, 557
+  orig: 320, 560
+  offset: 23, 0
+  index: -1
+images/js_eff_speed0069
+  rotate: true
+  xy: 560, 1702
+  size: 244, 556
+  orig: 320, 560
+  offset: 38, 0
+  index: -1
+images/js_eff_speed0072
+  rotate: true
+  xy: 1116, 1436
+  size: 254, 555
+  orig: 320, 560
+  offset: 33, 0
+  index: -1
+images/js_eff_speed0075
+  rotate: true
+  xy: 1123, 902
+  size: 266, 548
+  orig: 320, 560
+  offset: 27, 0
+  index: -1
+images/js_eff_speed0078
+  rotate: true
+  xy: 562, 1182
+  size: 262, 542
+  orig: 320, 560
+  offset: 29, 1
+  index: -1

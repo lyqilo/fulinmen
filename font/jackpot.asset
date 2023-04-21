@@ -1,0 +1,477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: jackpot
+  m_EditorClassIdentifier: 
+  hashCode: 781302472
+  material: {fileID: 21419628565330116}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: 8048cd39f09913644a2087b80790b678, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 1342177025
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: .
+    m_HashCode: 46
+  - m_ElementType: 2
+    m_Unicode: 1342177026
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: ','
+    m_HashCode: 44
+  - m_ElementType: 2
+    m_Unicode: 1342177027
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: 0
+    m_HashCode: 48
+  - m_ElementType: 2
+    m_Unicode: 1342177028
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: 1
+    m_HashCode: 49
+  - m_ElementType: 2
+    m_Unicode: 1342177029
+    m_GlyphIndex: 4
+    m_Scale: 1
+    m_Name: 2
+    m_HashCode: 50
+  - m_ElementType: 2
+    m_Unicode: 1342177030
+    m_GlyphIndex: 5
+    m_Scale: 1
+    m_Name: 3
+    m_HashCode: 51
+  - m_ElementType: 2
+    m_Unicode: 1342177031
+    m_GlyphIndex: 6
+    m_Scale: 1
+    m_Name: 4
+    m_HashCode: 52
+  - m_ElementType: 2
+    m_Unicode: 1342177032
+    m_GlyphIndex: 7
+    m_Scale: 1
+    m_Name: 5
+    m_HashCode: 53
+  - m_ElementType: 2
+    m_Unicode: 1342177033
+    m_GlyphIndex: 8
+    m_Scale: 1
+    m_Name: 6
+    m_HashCode: 54
+  - m_ElementType: 2
+    m_Unicode: 1342177040
+    m_GlyphIndex: 9
+    m_Scale: 1
+    m_Name: 7
+    m_HashCode: 55
+  - m_ElementType: 2
+    m_Unicode: 1342177041
+    m_GlyphIndex: 10
+    m_Scale: 1
+    m_Name: 8
+    m_HashCode: 56
+  - m_ElementType: 2
+    m_Unicode: 1342177042
+    m_GlyphIndex: 11
+    m_Scale: 1
+    m_Name: 9
+    m_HashCode: 57
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 96
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 21
+      m_Y: 96
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 42
+      m_Y: 96
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 64
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 21
+      m_Y: 64
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 42
+      m_Y: 64
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 32
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 7
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 21
+      m_Y: 32
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 8
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 42
+      m_Y: 32
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 9
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 0
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 10
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 21
+      m_Y: 0
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 11
+    m_Metrics:
+      m_Width: 21
+      m_Height: 32
+      m_HorizontalBearingX: -10.5
+      m_HorizontalBearingY: 16
+      m_HorizontalAdvance: 21
+    m_GlyphRect:
+      m_X: 42
+      m_Y: 0
+      m_Width: 21
+      m_Height: 32
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 96
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_01
+    hashCode: 1465667350
+    unicode: 1342177025
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 1
+    x: 21
+    y: 96
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_02
+    hashCode: 1465667349
+    unicode: 1342177026
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 2
+    x: 42
+    y: 96
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_03
+    hashCode: 1465667348
+    unicode: 1342177027
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 3
+    x: 0
+    y: 64
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_04
+    hashCode: 1465667347
+    unicode: 1342177028
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 4
+    x: 21
+    y: 64
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_05
+    hashCode: 1465667346
+    unicode: 1342177029
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 5
+    x: 42
+    y: 64
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_06
+    hashCode: 1465667345
+    unicode: 1342177030
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 6
+    x: 0
+    y: 32
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_07
+    hashCode: 1465667344
+    unicode: 1342177031
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 7
+    x: 21
+    y: 32
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_08
+    hashCode: 1465667359
+    unicode: 1342177032
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 8
+    x: 42
+    y: 32
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_09
+    hashCode: 1465667358
+    unicode: 1342177033
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 9
+    x: 0
+    y: 0
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_10
+    hashCode: 1465667382
+    unicode: 1342177040
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 10
+    x: 21
+    y: 0
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_11
+    hashCode: 1465667383
+    unicode: 1342177041
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  - id: 11
+    x: 42
+    y: 0
+    width: 21
+    height: 32
+    xOffset: -10.5
+    yOffset: 16
+    xAdvance: 21
+    scale: 1
+    name: jackpot_12
+    hashCode: 1465667380
+    unicode: 1342177042
+    pivot: {x: 0.5, y: 0.5}
+    sprite: {fileID: 0}
+  fallbackSpriteAssets: []
+--- !u!21 &21419628565330116
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8048cd39f09913644a2087b80790b678, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

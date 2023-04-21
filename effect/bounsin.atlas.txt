@@ -1,0 +1,90 @@
+
+bounsin.png
+size: 948,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0004_BONUS-GAME
+  rotate: true
+  xy: 731, 404
+  size: 636, 86
+  orig: 638, 88
+  offset: 1, 1
+  index: -1
+a
+  rotate: true
+  xy: 725, 90
+  size: 312, 66
+  orig: 360, 70
+  offset: 1, 2
+  index: -1
+b
+  rotate: true
+  xy: 603, 533
+  size: 507, 66
+  orig: 518, 70
+  offset: 3, 2
+  index: -1
+c
+  rotate: true
+  xy: 819, 585
+  size: 455, 66
+  orig: 489, 70
+  offset: 33, 2
+  index: -1
+cheng
+  rotate: false
+  xy: 2, 458
+  size: 599, 582
+  orig: 602, 590
+  offset: 1, 6
+  index: -1
+d
+  rotate: true
+  xy: 853, 313
+  size: 270, 66
+  orig: 336, 70
+  offset: 64, 2
+  index: -1
+duijinjiyu
+  rotate: false
+  xy: 2, 2
+  size: 678, 86
+  orig: 693, 128
+  offset: 9, 20
+  index: -1
+juanz
+  rotate: false
+  xy: 2, 90
+  size: 721, 366
+  orig: 721, 366
+  offset: 0, 0
+  index: -1
+w1
+  rotate: true
+  xy: 853, 94
+  size: 217, 57
+  orig: 219, 57
+  offset: 0, 0
+  index: -1
+w2
+  rotate: true
+  xy: 793, 26
+  size: 376, 58
+  orig: 394, 58
+  offset: 5, 0
+  index: -1
+w3
+  rotate: true
+  xy: 671, 530
+  size: 510, 58
+  orig: 539, 58
+  offset: 22, 0
+  index: -1
+w4
+  rotate: true
+  xy: 887, 648
+  size: 392, 56
+  orig: 402, 58
+  offset: 10, 1
+  index: -1

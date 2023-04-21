@@ -1,0 +1,132 @@
+
+ani_flm_k.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flm_TB_/eff_flm_k/eff_flm_k_0000
+  rotate: true
+  xy: 37, 12
+  size: 11, 7
+  orig: 164, 152
+  offset: 30, 135
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0001
+  rotate: false
+  xy: 91, 2
+  size: 31, 24
+  orig: 164, 152
+  offset: 25, 122
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0002
+  rotate: true
+  xy: 185, 279
+  size: 43, 37
+  orig: 164, 152
+  offset: 23, 110
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0003
+  rotate: true
+  xy: 230, 432
+  size: 77, 49
+  orig: 164, 152
+  offset: 23, 97
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0004
+  rotate: true
+  xy: 168, 422
+  size: 87, 60
+  orig: 164, 152
+  offset: 24, 84
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0005
+  rotate: true
+  xy: 178, 143
+  size: 93, 72
+  orig: 164, 152
+  offset: 24, 71
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0006
+  rotate: true
+  xy: 94, 124
+  size: 97, 82
+  orig: 164, 152
+  offset: 23, 58
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0007
+  rotate: true
+  xy: 2, 25
+  size: 97, 87
+  orig: 164, 152
+  offset: 23, 46
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0008
+  rotate: true
+  xy: 2, 124
+  size: 97, 90
+  orig: 164, 152
+  offset: 23, 35
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0009
+  rotate: true
+  xy: 91, 28
+  size: 94, 88
+  orig: 164, 152
+  offset: 23, 25
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0010
+  rotate: true
+  xy: 118, 238
+  size: 105, 65
+  orig: 164, 152
+  offset: 25, 20
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0011
+  rotate: true
+  xy: 181, 32
+  size: 109, 59
+  orig: 164, 152
+  offset: 29, 18
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0012
+  rotate: true
+  xy: 242, 35
+  size: 106, 52
+  orig: 164, 152
+  offset: 35, 18
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0013
+  rotate: false
+  xy: 168, 378
+  size: 95, 42
+  orig: 164, 152
+  offset: 47, 22
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0014
+  rotate: true
+  xy: 185, 324
+  size: 52, 36
+  orig: 164, 152
+  offset: 89, 22
+  index: -1
+flm_TB_/eff_flm_k/eff_flm_k_0015
+  rotate: false
+  xy: 2, 2
+  size: 33, 21
+  orig: 164, 152
+  offset: 103, 25
+  index: -1
+flm_TB_/flm_k
+  rotate: false
+  xy: 2, 223
+  size: 114, 120
+  orig: 164, 152
+  offset: 25, 21
+  index: -1
+flm_TB_/images_tuwenlia1
+  rotate: false
+  xy: 2, 345
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1

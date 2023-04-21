@@ -1,0 +1,104 @@
+
+ani_yanhua.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_fire_01/eff_yanhua_0003
+  rotate: false
+  xy: 2, 1494
+  size: 376, 340
+  orig: 400, 480
+  offset: 11, 123
+  index: -1
+eff_fire_01/eff_yanhua_0009
+  rotate: false
+  xy: 752, 1505
+  size: 357, 329
+  orig: 400, 480
+  offset: 19, 134
+  index: -1
+eff_fire_01/eff_yanhua_0015
+  rotate: false
+  xy: 2, 1169
+  size: 350, 323
+  orig: 400, 480
+  offset: 18, 140
+  index: -1
+eff_fire_01/eff_yanhua_0021
+  rotate: false
+  xy: 1048, 992
+  size: 279, 266
+  orig: 400, 480
+  offset: 50, 177
+  index: -1
+eff_fire_01/eff_yanhua_0027
+  rotate: true
+  xy: 2, 930
+  size: 237, 246
+  orig: 400, 480
+  offset: 85, 180
+  index: -1
+eff_fire_01/eff_yanhua_0033
+  rotate: true
+  xy: 354, 951
+  size: 245, 273
+  orig: 400, 480
+  offset: 79, 162
+  index: -1
+eff_fire_01/eff_yanhua_0039
+  rotate: true
+  xy: 751, 984
+  size: 255, 275
+  orig: 400, 480
+  offset: 77, 154
+  index: -1
+eff_fire_01/eff_yanhua_0045
+  rotate: true
+  xy: 751, 1241
+  size: 262, 295
+  orig: 400, 480
+  offset: 74, 138
+  index: -1
+eff_fire_01/eff_yanhua_0051
+  rotate: true
+  xy: 1111, 1260
+  size: 270, 321
+  orig: 400, 480
+  offset: 71, 125
+  index: -1
+eff_fire_01/eff_yanhua_0057
+  rotate: true
+  xy: 1479, 1256
+  size: 282, 340
+  orig: 400, 480
+  offset: 62, 108
+  index: -1
+eff_fire_01/eff_yanhua_0063
+  rotate: true
+  xy: 1479, 1540
+  size: 294, 355
+  orig: 400, 480
+  offset: 58, 96
+  index: -1
+eff_fire_01/eff_yanhua_0069
+  rotate: true
+  xy: 1111, 1532
+  size: 302, 366
+  orig: 400, 480
+  offset: 53, 90
+  index: -1
+eff_fire_01/eff_yanhua_0075
+  rotate: true
+  xy: 380, 1198
+  size: 313, 369
+  orig: 400, 480
+  offset: 47, 90
+  index: -1
+eff_fire_01/eff_yanhua_0081
+  rotate: true
+  xy: 380, 1513
+  size: 321, 370
+  orig: 400, 480
+  offset: 45, 93
+  index: -1

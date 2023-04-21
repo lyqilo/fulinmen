@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "mianfei_,.png",
+	"frame": {"x":0,"y":0,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_..png",
+	"frame": {"x":46,"y":0,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_0.png",
+	"frame": {"x":92,"y":0,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_1.png",
+	"frame": {"x":138,"y":0,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_2.png",
+	"frame": {"x":184,"y":0,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_3.png",
+	"frame": {"x":0,"y":51,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_4.png",
+	"frame": {"x":46,"y":51,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_5.png",
+	"frame": {"x":92,"y":51,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_6.png",
+	"frame": {"x":138,"y":51,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_7.png",
+	"frame": {"x":184,"y":51,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_8.png",
+	"frame": {"x":0,"y":102,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_9.png",
+	"frame": {"x":46,"y":102,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_B.png",
+	"frame": {"x":92,"y":102,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_K.png",
+	"frame": {"x":138,"y":102,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_M.png",
+	"frame": {"x":184,"y":102,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+{
+	"filename": "mianfei_T.png",
+	"frame": {"x":0,"y":153,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mianfei1.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00bd0d85f8bac02d03210de6adaf15b9:58068c97e60fd820376f3d147de1b40b:25db7028de8e3f848ba57466a400323c$"
+}
+}

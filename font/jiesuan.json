@@ -1,0 +1,138 @@
+{"frames": [
+
+{
+	"filename": "dafu.png",
+	"frame": {"x":0,"y":237,"w":83,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":45},
+	"sourceSize": {"w":83,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_01.png",
+	"frame": {"x":0,"y":0,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_1.png",
+	"frame": {"x":53,"y":158,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_02.png",
+	"frame": {"x":53,"y":0,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_03.png",
+	"frame": {"x":106,"y":0,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_04.png",
+	"frame": {"x":159,"y":0,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_05.png",
+	"frame": {"x":0,"y":79,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_06.png",
+	"frame": {"x":53,"y":79,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_07.png",
+	"frame": {"x":106,"y":79,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_08.png",
+	"frame": {"x":159,"y":79,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_09.png",
+	"frame": {"x":0,"y":158,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_10.png",
+	"frame": {"x":106,"y":158,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shuzi_11.png",
+	"frame": {"x":159,"y":158,"w":53,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":79},
+	"sourceSize": {"w":53,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "xiaofu.png",
+	"frame": {"x":83,"y":237,"w":83,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":44},
+	"sourceSize": {"w":83,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jiesuan.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f05fa2bfdafd6e237d88237ce6d289e5:d2dec32ce4ee9b2f56b9785fd8758bde:d3416b2271d30f3f0f057f6331d21b1c$"
+}
+}
