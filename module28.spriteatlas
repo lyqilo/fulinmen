@@ -157,6 +157,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: a13cdf89c4bab464ca8a438da2d8f4ac, type: 3}
   - {fileID: 21300000, guid: 42b997f997bd4454e8487836af93621a, type: 3}
   - {fileID: 21300000, guid: 58461b6a8d696fc49a5b14159c89e86a, type: 3}
+  - {fileID: 21300000, guid: 974ebf8a3a8fdfa43a415f9f16d6ac55, type: 3}
   - {fileID: 21300000, guid: 409b4aaa2ef94e543bf76e59a8fa2327, type: 3}
   - {fileID: 21300000, guid: 54890dba6f7fdd946b48b54ef31e74e4, type: 3}
   - {fileID: 21300000, guid: 5452b1ca0c1279c49a48f53496a96463, type: 3}
@@ -274,6 +275,7 @@ SpriteAtlas:
   - flm_icon_01
   - 25
   - 12
+  - Gold
   - 13
   - bg2
   - 21
