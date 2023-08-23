@@ -42,7 +42,7 @@ TextureImporter:
       213: -5988167448562176218
     second: jiesuan_12
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -101,6 +102,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -140,6 +142,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: 4
@@ -436,6 +450,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      jiesuan_0: 8278743944310775305
+      jiesuan_1: 1178557240507511452
+      jiesuan_10: 4200175065145093544
+      jiesuan_11: -66483554914704688
+      jiesuan_12: -5988167448562176218
+      jiesuan_2: 9194419630856321129
+      jiesuan_3: 2367091299819686719
+      jiesuan_4: -5708893828052111056
+      jiesuan_5: -3122657036065308290
+      jiesuan_6: -3817372280457686982
+      jiesuan_7: 8170884227165653242
+      jiesuan_8: -1532060883192352989
+      jiesuan_9: -6530825828847948515
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
